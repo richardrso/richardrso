@@ -2,7 +2,7 @@
 # I'm Richard Rios!
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=richardrso.visitor-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frichardrso%2Frichardrso&label=visitors%20today%20&countColor=%23263759)
 
 ## About Me
 
