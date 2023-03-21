@@ -1,4 +1,5 @@
-![gif](https://raw.githubusercontent.com/gist/theAdityaNVS/ae35a60963ad1129c40c6fee725022d9/raw/96a222546bddfe54530aa37a81579f5d7205024b/hello.gif)
+![gif](https://user-images.githubusercontent.com/55769589/226614241-54ae93c8-d982-41ac-b8b3-19b4087f2ada.gif)
+
 # I'm Richard Rios!
 
 
