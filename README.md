@@ -2,7 +2,7 @@
 # I'm Richard Rios!
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frichardrso%2Frichardrso&label=visitors%20today%20&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frichardrso%2Frichardrso&label=visitors&countColor=%234078c0&style=flat-square)
 
 ## About Me
 
