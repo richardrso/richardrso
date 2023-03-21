@@ -1,11 +1,11 @@
 ![gif](https://user-images.githubusercontent.com/55769589/226614241-54ae93c8-d982-41ac-b8b3-19b4087f2ada.gif)
 
-# I'm Richard Rios! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" height="30">
+# I'm Richard Rios! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" height="30" style="vertical-align:middle">
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frichardrso%2Frichardrso&label=visitors&countColor=%234078c0&style=flat-square)
 
-## About Me <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" height="30">
+## About Me <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" height="30" style="vertical-align:text-top">
 
 <p>
   <em>
@@ -13,7 +13,7 @@
   </em>  
 </p>
 
-## Spotify <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30">
+## Spotify <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" style="vertical-align:text-top">
 
 Check out my Spotify profile:
 
